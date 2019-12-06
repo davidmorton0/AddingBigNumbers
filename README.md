@@ -10,6 +10,7 @@ Write a function that returns the sum of two numbers. The input numbers are stri
 Example
 
 add("123", "321"); -> "444"
+
 add("11", "99");   -> "110"
 
 Notes
